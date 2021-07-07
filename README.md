@@ -1,6 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+## Boilerplate Goals
+* Single Page App
+  * 2 Pages with React Routes
+    * React Router DOM
+  * Grid Framework with application header
+
+* Testing
+  * Unit Testing with Jest 
+  * Render Testing
+
+* Redux 
+  * Use Redux with redux tool kit
+
 
 In the project directory, you can run:
 
